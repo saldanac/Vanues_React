@@ -8,8 +8,6 @@ import IconButton from '@material-ui/core/IconButton';
 
 import SideDrawer from './SideDrawer'
 
-// 9 lesson, 2:25 sec
-
 class Header extends Component {
   state = {
     drawerOpen: false,
@@ -52,7 +50,7 @@ class Header extends Component {
         <IconButton
           aria-label = "Menu"
           color = "inherit"
-          onClick={() => this.toggleDrawer(true)}
+          onClick={ () => this.toggleDrawer(true) }
         >
           <MenuIcon/>
         </IconButton> 
