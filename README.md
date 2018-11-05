@@ -4,13 +4,13 @@
 
 - clone this repo
 - if u use npm
-  \*\* npm i
-  \*\* npm run
+  - npm i
+  - npm run
 - if u use yarn
-  \*\* yarn install
-  \*\* yarn start
+  - yarn install
+  - yarn start
 
 ### build folder/ web site
 
-- vanue.surge.sh
-- if don't open use vpn connection
+- http://vanue.surge.sh
+- if don't open - use vpn connection
