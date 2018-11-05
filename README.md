@@ -5,7 +5,7 @@
 - clone this repo
 - if u use npm
   - npm i
-  - npm run
+  - npm start
 - if u use yarn
   - yarn install
   - yarn start
